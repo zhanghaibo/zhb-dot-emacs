@@ -102,8 +102,6 @@
 (global-set-key [?\C-x w] 'windmove-left)
 (el-get-init 'egg)
 
-(el-get-init 'auto-pair+)
-(require 'auto-pair+)
 (el-get-init 'python-mode)
 (require 'python-mode)
 (el-get-init 'ropemacs)
