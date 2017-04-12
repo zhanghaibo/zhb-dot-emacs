@@ -1,0 +1,156 @@
+[submodule "el-get/el-get"]
+	path = el-get/el-get
+	url = https://github.com/dimitri/el-get.git
+[submodule "el-get/fuzzy"]
+	path = el-get/fuzzy
+	url = https://github.com/auto-complete/fuzzy-el.git
+[submodule "el-get/auto-complete"]
+	path = el-get/auto-complete
+	url = https://github.com/auto-complete/auto-complete.git
+[submodule "el-get/better-defaults"]
+	path = el-get/better-defaults
+	url = https://github.com/technomancy/better-defaults.git
+[submodule "el-get/clojure-mode"]
+	path = el-get/clojure-mode
+	url = https://github.com/clojure-emacs/clojure-mode.git
+[submodule "el-get/clojure-snippets"]
+	path = el-get/clojure-snippets
+	url = https://github.com/mpenet/clojure-snippets.git
+[submodule "el-get/company-mode"]
+	path = el-get/company-mode
+	url = https://github.com/company-mode/company-mode.git
+[submodule "el-get/ctable"]
+	path = el-get/ctable
+	url = https://github.com/kiwanami/emacs-ctable.git
+[submodule "el-get/dash"]
+	path = el-get/dash
+	url = https://github.com/magnars/dash.el.git
+[submodule "el-get/deferred"]
+	path = el-get/deferred
+	url = https://github.com/kiwanami/emacs-deferred.git
+[submodule "el-get/direx"]
+	path = el-get/direx
+	url = https://github.com/m2ym/direx-el.git
+[submodule "el-get/django-mode"]
+	path = el-get/django-mode
+	url = https://github.com/myfreeweb/django-mode.git
+[submodule "el-get/doxymacs"]
+	path = el-get/doxymacs
+	url = git://doxymacs.git.sourceforge.net/gitroot/doxymacs/doxymacs
+[submodule "el-get/egg"]
+	path = el-get/egg
+	url = https://github.com/byplayer/egg.git
+[submodule "el-get/elpy"]
+	path = el-get/elpy
+	url = https://github.com/jorgenschaefer/elpy.git
+[submodule "el-get/emacs-async"]
+	path = el-get/emacs-async
+	url = https://github.com/jwiegley/emacs-async.git
+[submodule "el-get/epc"]
+	path = el-get/epc
+	url = https://github.com/kiwanami/emacs-epc.git
+[submodule "el-get/epl"]
+	path = el-get/epl
+	url = https://github.com/cask/epl.git
+[submodule "el-get/find-file-in-project"]
+	path = el-get/find-file-in-project
+	url = https://github.com/technomancy/find-file-in-project.git
+[submodule "el-get/flycheck"]
+	path = el-get/flycheck
+	url = https://github.com/flycheck/flycheck.git
+[submodule "el-get/flymake"]
+	path = el-get/flymake
+	url = https://github.com/illusori/emacs-flymake.git
+[submodule "el-get/flymake-easy"]
+	path = el-get/flymake-easy
+	url = https://github.com/purcell/flymake-easy.git
+[submodule "el-get/flymake-phpcs"]
+	path = el-get/flymake-phpcs
+	url = https://github.com/senda-akiha/flymake-phpcs.git
+[submodule "el-get/flymake-pycheckers"]
+	path = el-get/flymake-pycheckers
+	url = https://github.com/dholm/flymake-pycheckers.git
+[submodule "el-get/git-commit-mode"]
+	path = el-get/git-commit-mode
+	url = https://github.com/rafl/git-commit-mode.git
+[submodule "el-get/git-emacs"]
+	path = el-get/git-emacs
+	url = https://github.com/tsgates/git-emacs.git
+[submodule "el-get/git-modes"]
+	path = el-get/git-modes
+	url = https://github.com/magit/git-modes.git
+[submodule "el-get/go-mode"]
+	path = el-get/go-mode
+	url = https://github.com/dominikh/go-mode.el.git
+[submodule "el-get/highlight-indentation"]
+	path = el-get/highlight-indentation
+	url = https://github.com/antonj/Highlight-Indentation-for-Emacs
+[submodule "el-get/highlight-parentheses"]
+	path = el-get/highlight-parentheses
+	url = https://github.com/nschum/highlight-parentheses.el.git
+[submodule "el-get/jedi"]
+	path = el-get/jedi
+	url = https://github.com/tkf/emacs-jedi.git
+[submodule "el-get/jedi-core"]
+	path = el-get/jedi-core
+	url = https://github.com/tkf/emacs-jedi.git
+[submodule "el-get/jedi-direx"]
+	path = el-get/jedi-direx
+	url = https://github.com/tkf/emacs-jedi-direx.git
+[submodule "el-get/magit"]
+	path = el-get/magit
+	url = https://github.com/magit/magit.git
+[submodule "el-get/markdown-mode"]
+	path = el-get/markdown-mode
+	url = https://github.com/jrblevin/markdown-mode.git
+[submodule "el-get/pkg-info"]
+	path = el-get/pkg-info
+	url = https://github.com/lunaryorn/pkg-info.el.git
+[submodule "el-get/popup"]
+	path = el-get/popup
+	url = https://github.com/auto-complete/popup-el.git
+[submodule "el-get/pymacs"]
+	path = el-get/pymacs
+	url = https://github.com/pinard/Pymacs.git
+[submodule "el-get/python-django"]
+	path = el-get/python-django
+	url = https://github.com/fgallina/python-django.el.git
+[submodule "el-get/python-environment"]
+	path = el-get/python-environment
+	url = https://github.com/tkf/emacs-python-environment.git
+[submodule "el-get/pyvenv"]
+	path = el-get/pyvenv
+	url = https://github.com/jorgenschaefer/pyvenv.git
+[submodule "el-get/rainbow-delimiters"]
+	path = el-get/rainbow-delimiters
+	url = https://github.com/Fanael/rainbow-delimiters.git
+[submodule "el-get/rainbow-identifiers"]
+	path = el-get/rainbow-identifiers
+	url = https://github.com/Fanael/rainbow-identifiers.git
+[submodule "el-get/rope"]
+	path = el-get/rope
+	url = https://github.com/python-rope/rope.git
+[submodule "el-get/ropemacs"]
+	path = el-get/ropemacs
+	url = https://github.com/python-rope/ropemacs
+[submodule "el-get/ropemode"]
+	path = el-get/ropemode
+	url = https://github.com/python-rope/ropemode
+[submodule "el-get/seq"]
+	path = el-get/seq
+	url = https://github.com/NicolasPetton/seq.el.git
+[submodule "el-get/swift-mode"]
+	path = el-get/swift-mode
+	url = https://github.com/chrisbarrett/swift-mode.git
+[submodule "el-get/with-editor"]
+	path = el-get/with-editor
+	url = https://github.com/magit/with-editor.git
+[submodule "el-get/xcscope"]
+	path = el-get/xcscope
+	url = https://github.com/dkogan/xcscope.el.git
+[submodule "el-get/yaml-mode"]
+	path = el-get/yaml-mode
+	url = https://github.com/yoshiki/yaml-mode.git
+[submodule "el-get/yasnippet"]
+	path = el-get/yasnippet
+	url = https://github.com/capitaomorte/yasnippet.git
